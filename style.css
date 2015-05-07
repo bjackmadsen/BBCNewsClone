@@ -55,7 +55,21 @@ body {
 	float: left;
 }
 
+#search-div {
+	float: left;
+	padding: 5px 0 0 10px;
+}
 
+#search-div input {
+	height: 25px;
+	width: 180px;
+	border: none;
+	font-size: 0.9em;
+	padding-left: 10px;
+	background-image: url("images/magnify.png");
+	background-repeat: no-repeat;
+	background-position: right center;
+}
 
 
 

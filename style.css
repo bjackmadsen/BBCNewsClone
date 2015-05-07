@@ -78,8 +78,32 @@ body {
 	color: white;
 }
 
+#news-bar p {
+	margin: 0;
+	padding: 0;
+	padding-top: 10px;
+	float: left;
+}
 
+#newsHeader {
+	font-size: 3em;
+}
 
+#uk {
+	font-size: 0.7em;
+	padding-left: 20px;
+}
+
+#rss {
+	float: right;
+	margin-top: 30px;
+}
+
+#rss img {
+	height: 15px;
+	padding-top: 10px;
+  	padding-left: 4px;
+}
 
 
 

@@ -71,7 +71,12 @@ body {
 	background-position: right center;
 }
 
-
+#news-bar {
+	background-color: #990000;
+	width: 100%;
+	height: 90px;
+	color: white;
+}
 
 
 

@@ -173,9 +173,23 @@ h1 {
 	text-decoration: underline;
 }
 
+.video {
+	background-image: url("images/play.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 20px;
+}
 
+.links {
+	line-height: 1.6em;
+}
 
-
+.speaker {
+	background-image: url("images/speaker.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding-left: 20px;
+}
 
 
 

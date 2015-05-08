@@ -239,6 +239,38 @@ h2 {
 	margin: 6px 10px 6px 10px;
 }
 
+#watch-listen ul {
+	margin: 0;
+	padding: 0 10px 10px 10px;
+}
+
+#watch-listen li {
+	list-style: none;
+	background-image: url("images/live.png");
+	background-repeat: no-repeat;
+	background-position: left center;
+	padding: 10px 0 10px 40px;
+	font-size: 1.4em;
+}
+
+.live-link a {
+	color: #1F4F82;
+}
+
+.bborder {
+	border-bottom: 1px solid #DDDDDD;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 

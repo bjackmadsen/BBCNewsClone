@@ -172,10 +172,13 @@ h1 {
 
 .news-item a {
 	color: #1F4F82;
+}
+
+a {
 	text-decoration: none;
 }
 
-.news-item a:hover {
+a:hover {
 	text-decoration: underline;
 }
 
@@ -197,16 +200,44 @@ h1 {
 	padding-left: 20px;
 }
 
+#watch-listen {
+	background-color: #EEEEEE;
+	float: right;
+	width: 336px;
+	position: relative;
+	top: -80px;
+}
 
+h2 {
+	color: #505050;
+	margin: 10px 0 10px 10px;
+	font-size: 1.8em;
+}
 
+.boxes {
+	float: right;
+	margin: 20px 10px 0 0;
+}
 
+.leftarrow {
+	float: left;
+	border-right: 1px solid white;
+}
 
+.wlblock {
+	float: left;
+	background-color: #D1700E;
+	width: 143px;
+	border-right: 1px solid white;
+}
 
+.wlblock a {
+	color: white;
+}
 
-
-
-
-
+.wlblock p {
+	margin: 6px 10px 6px 10px;
+}
 
 
 
